@@ -1,2 +1,2 @@
-Test.java
- Test
+ru/stqa/pft/sandbox/Test.java
+ ru.stqa.pft.sandbox.Test
